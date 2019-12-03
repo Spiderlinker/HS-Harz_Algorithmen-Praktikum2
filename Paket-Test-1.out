@@ -1,0 +1,61 @@
+Environment Vs 1.1, 16.09.2001
+
+TextInputStream Vs 1.1a, 21.04.2000
+
+Paketverwaltung
+===============
+
+Namen der Pakete, aufsteigend sortiert
+--------------------------------------
+Baier
+Finke
+Fischer-Hirchert
+Günther
+K
+Kramer
+Krauser
+Kreyßig
+Pundt
+Schneider
+Schütt
+Stolzenburg
+Strack
+Wilhelm
+Wisse
+Wöstenkühler
+Zimmermann
+
+Paketverteilung
+---------------
+Das Paket 
+   "Name: Wisse; Volumen: 30"
+   passt aktuell in keinen LKW!
+
+LKW-10:
+Name: Baier; Volumen: 20; LkwNr: 10
+Name: Finke; Volumen: 10; LkwNr: 10
+Name: Fischer-Hirchert; Volumen: 30; LkwNr: 10
+Name: K; Volumen: 5; LkwNr: 10
+Name: Pundt; Volumen: 5; LkwNr: 10
+Ladevolumen: 70; max. Ladevolumen: 70
+
+LKW-15:
+Name: Günther; Volumen: 20; LkwNr: 15
+Name: Kramer; Volumen: 15; LkwNr: 15
+Name: Krauser; Volumen: 20; LkwNr: 15
+Name: Kreyßig; Volumen: 30; LkwNr: 15
+Name: Wilhelm; Volumen: 5; LkwNr: 15
+Ladevolumen: 90; max. Ladevolumen: 94
+
+LKW-20:
+Name: Schneider; Volumen: 10; LkwNr: 20
+Name: Schütt; Volumen: 15; LkwNr: 20
+Name: Wöstenkühler; Volumen: 5; LkwNr: 20
+Ladevolumen: 30; max. Ladevolumen: 35
+
+LKW-25:
+Name: Stolzenburg; Volumen: 40; LkwNr: 25
+Name: Strack; Volumen: 15; LkwNr: 25
+Name: Zimmermann; Volumen: 10; LkwNr: 25
+Ladevolumen: 65; max. Ladevolumen: 65
+
